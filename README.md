@@ -8,6 +8,7 @@
 <h1 align="center">Say Better</h1>
 
 <br>
+
 ## Abstract
 
 In this repository, we created a word card recommendation system using the text bison (PaLM2) model and embeddings from SBERT, a pre-trained model.

@@ -32,7 +32,7 @@ The goal is to make it easier for educators to find words that fit the situation
  ┣ 📜main.py
  ┣ 📜README.md
  ┣ 📜requirements.txt
- ┣ 📜wise-imagery-410607-249d947f56fd.json
+ ┣ 📜your_key.json
  ┗ 📜word_card_embed.npy
 ```
 

@@ -96,6 +96,8 @@ This graph shows the embedding vector values of the word card.
 <img src="./image/say_better_embedding_graph2d.png" width="500px" alt="SayBetter graph2d" />
 <img src="./image/say_better_embedding_graph3d.png" width="500px" alt="SayBetter graph3d" />
 
+**Click on the image to zoom in.**
+
 
 It can be seen that word cards with similar meanings are gathered together.
 

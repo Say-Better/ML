@@ -36,6 +36,13 @@ The goal is to make it easier for educators to find words that fit the situation
  ┗ 📜word_card_embed.npy
 ```
 
+
+```
+📂preprocessing
+ ┗ 📜sentence_transformer_word_embedding.ipynb
+```
+
+
 ## System Architecture
 
 

@@ -33,14 +33,11 @@ The goal is to make it easier for educators to find words that fit the situation
  ┣ 📜README.md
  ┣ 📜requirements.txt
  ┣ 📜your_key.json
- ┗ 📜word_card_embed.npy
+ ┣ 📜word_card_embed.npy
+ ┗ 📂preprocessing
+   ┗ 📜sentence_transformer_word_embedding.ipynb
 ```
 
-
-```
-📂preprocessing
- ┗ 📜sentence_transformer_word_embedding.ipynb
-```
 
 
 ## System Architecture

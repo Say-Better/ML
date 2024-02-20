@@ -114,7 +114,7 @@ The text bison (PaLM2) model was used for keyword extraction.
 The kykim/vert-kor-base model was used for sentence similarity analysis.
 
 
-The word cards used were brought by KAAC with copyright permission, and 542 word cards were used.
+The word cards used were brought by KAAC with copyright permission, and 2000 word cards were used.
 
 
 ### References

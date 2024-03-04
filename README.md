@@ -140,7 +140,7 @@ SayBetter-TeamDoc:
 
 SayBetter-Server: 
 
-(1) https://github.com/jimmy0006/hearsitter-server-python
+(1) https://github.com/Say-Better/Service-Server
 
 
 SayBetter-Front:

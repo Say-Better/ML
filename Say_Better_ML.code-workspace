@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Say_Better_ML",
+			"path": "."
+		},
+		{
+			"name": "recommender",
+			"path": "../../Desktop/say_better_project/recommender"
+		}
+	],
+	"settings": {}
+}
